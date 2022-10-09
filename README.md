@@ -1,5 +1,7 @@
 # Linux Academic Group
 
+![Logo of Linux Academic Group](https://i.imgur.com/D29tjqJ.png)
+
 Linux Academic Group aims at associating PUT students interested in learning about operating systems (mainly Linux) and open source software.
 Our work so far has been focused mainly on sharing our knowledge and abilities, but we work on open source projects as well.
 On this page you will find information about who we are, what our goals are and how to join us.
