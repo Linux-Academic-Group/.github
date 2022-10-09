@@ -19,6 +19,7 @@ This distro is used by Rocketlab members in their portable command center that h
 If you want to join us, we expect some basic knowledge from you.
 Nobody will ask you questions or get upset if you don't know something, these things will help you keep up with our work and meetings.
 * [Linux Journey](https://linuxjourney.com/) - this website contains general knowledge about Linux systems and is suitable for both beginner and intermediate linux users
+* [Missing Computer Science Semester](https://missing.csail.mit.edu/) - is a free set of lectures delivered by Phd students at MIT. This course will teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more! 
 * [Open Source Licensing](https://github.com/readme/guides/open-source-licensing) - of course we don't expect you to have an attorney-level knowledge about licenses, however it is a good thing to know about popular open source licenses like GPL, Apache, MIT or BSD.
 
 ## How to join us
