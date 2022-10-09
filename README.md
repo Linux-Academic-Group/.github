@@ -8,11 +8,11 @@ On this page you will find information about who we are, what our goals are and 
 
 ### Rocket Lag Debian
 
-Rocket Lag Debian is a small project that we did in collaboration wit [PUT Rocketlab](https://rocketlab.put.poznan.pl/).
+Rocket Lag Debian is a small project that we did in collaboration with [PUT Rocketlab](https://rocketlab.put.poznan.pl/).
 The project is basically a customized Debian installator which automatically installs minimal debian distro with all essential tools.
 This distro is used by Rocketlab members in their portable command center that helps them monitor and control parameters of their rockets during tests and launches.
 
-## Useful learing resources
+## Useful learning resources
 
 If you want to join us, we expect some basic knowledge from you.
 Nobody will ask you questions or get upset if you don't know something, these things will help you keep up with our work and meetings.
@@ -21,4 +21,4 @@ Nobody will ask you questions or get upset if you don't know something, these th
 
 ## How to join us
 
-If you feel like you want to become a part of LAG, fill in the form available on out [website](https://lag.edu.pl/). We will reach out to you after receiving your application.
+If you feel like you want to become a part of LAG, fill in the form available on our [website](https://lag.edu.pl/). We will reach out to you after receiving your application.
