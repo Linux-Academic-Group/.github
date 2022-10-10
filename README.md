@@ -1,24 +1,26 @@
 # Linux Academic Group
 
-Linux Academic Group aims at associating PUT students interested in learning about operating systems (mainly Linux) and open source software.
-Our work so far has been focused mainly on sharing our knowledge and abilities, but we work on open source projects as well.
-On this page you will find information about who we are, what our goals are and how to join us.
+![Logo of Linux Academic Group](https://i.imgur.com/D29tjqJ.png)
 
-## Our work
+Linux Academic Group (LAG) is an interdisciplinary student association for Linux programmers and enthusiasts operating at the Institute of Computer Science of the Poznań University of Technology.
+
+LAGs main goals are to provide its members with space for improving their programming competencies and to increase awareness of modern, open technologies and the benefits they carry, focusing on work around open source operating systems such as Linux or Zephyr.
+## Projects
 
 ### Rocket Lag Debian
 
-Rocket Lag Debian is a small project that we did in collaboration wit [PUT Rocketlab](https://rocketlab.put.poznan.pl/).
-The project is basically a customized Debian installator which automatically installs minimal debian distro with all essential tools.
-This distro is used by Rocketlab members in their portable command center that helps them monitor and control parameters of their rockets during tests and launches.
+The [Rocket Lag Debian](https://github.com/Linux-Academic-Group/rocket-lag-debian) is a project that we did in collaboration with [PUT Rocketlab](https://rocketlab.put.poznan.pl/) student organisation.
 
-## Useful learing resources
+The main goal of the project was to create customized Debian installator which automatically installs minimal debian distribution with necessary essential tools.
 
-If you want to join us, we expect some basic knowledge from you.
-Nobody will ask you questions or get upset if you don't know something, these things will help you keep up with our work and meetings.
-* [Linux Journey](https://linuxjourney.com/) - this website contains general knowledge about Linux systems and is suitable for both beginner and intermediate linux users
-* [Open Source Licensing](https://github.com/readme/guides/open-source-licensing) - of course we don't expect you to have an attorney-level knowledge about licenses, however it is a good thing to know about popular open source licenses like GPL, Apache, MIT or BSD.
+The distribution later is used by Rocketlab members in their portable command center to help monitor and control parameters of rockets during tests and launches.
 
-## How to join us
+## Useful resources to start from
 
-If you feel like you want to become a part of LAG, fill in the form available on out [website](https://lag.edu.pl/). We will reach out to you after receiving your application.
+* [Linux Journey](https://linuxjourney.com/) - is an online set of lessons dedicated to teach you the general aspects of Linux systems and command line usage.
+* [Missing Computer Science Semester](https://missing.csail.mit.edu/) - is a free set of lectures delivered by PhD students at MIT that will teach you how to master the command-line, use a powerful text editor, fancy features of version control systems, and much more! 
+* [Open Source Licensing](https://github.com/readme/guides/open-source-licensing) - provides general knowledge about licenses and how to choose the correct one for your project.
+
+## How to join
+
+All you need to do to apply for a membership at LAG is to fill the form available on our [website](https://lag.edu.pl). Once your application has been reviewed and accepted, you will receive a confirmation email.
